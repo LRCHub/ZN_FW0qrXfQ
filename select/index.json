@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "戯言スピーカー(in synonym)",
+  "base_artist": "ササノマリイ",
+  "createdAt": "2026-03-04T23:45:26.299050Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "戯言スピーカー(in synonym)",
+      "artist": "sasanomaly",
+      "has_synced": true,
+      "path": "select/01_戯言スピーカー(in_synonym)_sasanomaly.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "戯言スピーカー(in synonym)",
+      "artist": "ササノマリイ",
+      "has_synced": false,
+      "path": "select/pl_01_戯言スピーカー(in_synonym)_ササノマリイ.txt"
+    }
+  ]
+}
